@@ -1,8 +1,12 @@
 ---
 permalink: /about/
-title: "About"
+title: "so what is crowdhaüs?"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+If you've gotten this far, you've made a good start. We are about to take you behind the curtain for a little insight into who we are.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+The company came about as a result of our founders' frustrating experiences whilst searching for a new home. If you pass a property you like, why is it so difficult to get any information about it?
+
+It's clear that digital natives have been ignored by the major players in the property search market, and our digital smart sign has been designed to match the experience they expect across other markets - think news, social media, dating and even banking!
+
+By providing a service that aims to target this mismatch, agents and users will benefit from instant information, and simple communication. A digital experience providing hyperlocalised information, in a familiar, digestible format - think Tinder, think Happn… think crowdhaüs.
