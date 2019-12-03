@@ -9,7 +9,7 @@ tags:
   - standard
 author:
   name     : "Matt Pollen"
-  avatar   : "/assets/images/bio-photo.jpg"
+  avatar   : "/assets/images/matt-photo.png"
   bio      : "The boring half of Crowdhaüs."
   location : "London, UK"
   links:
